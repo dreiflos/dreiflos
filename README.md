@@ -2,8 +2,7 @@
 <h1>✍️ About: </h1> <br>
 
  
-'''markdown
-'''diff
+```diff
 @@Olá, eu me chamo Andrei ⚠️@@
 + In Living in Mato Grosso - Brazil 🇧🇷 
 - I'm work with Network Analisys and development 
