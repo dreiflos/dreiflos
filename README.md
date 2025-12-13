@@ -7,7 +7,7 @@ Olá, eu me chamo Andrei ⚠️
 
 + Moro no Mato Grosso - Brazil
 - Tenho estudado sobre DevOps (principalmente linux e terraform)
-! Java, Spirng Boot, PHP and Laravel/CakePHP
+! Java, SpringBoot, PHP and Laravel/CakePHP
 # Interesse em aprofundamento em Java e SQL / DEVOPS
 ```
 <br>
