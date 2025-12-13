@@ -5,10 +5,9 @@
 ```diff
 Olá, eu me chamo Andrei ⚠️
 
-+ In Living in Mato Grosso - Brazil 🇧🇷 
-- I'm work with Network Analisys and development 
-! I have knowledge in Java, Spring Boot, PHP and SQL!!
-# Interested in Hibernete, Kubernetes, and all cloud sector
++ Moro no Mato Grosso - Brazil
+- Tenho estudado sobre DevOps (principalmente linux e terraform)
+# Sei java (frameworks relacionados) PHP e SQL
 ```
 <br>
 <h1>✅ Tools:</h1><br><br>
