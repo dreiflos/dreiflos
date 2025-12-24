@@ -23,6 +23,7 @@ Olá, eu me chamo Andrei ⚠️
   <br />
 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/JAVA-CB3837?style=for-the-badge&logo=java&logoColor=white" alt="JAVA Badge"/>
   <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP Badge"/>
 
   <br />
